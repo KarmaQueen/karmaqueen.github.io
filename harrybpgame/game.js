@@ -623,7 +623,7 @@ function yAccelerate(){
 //--------------------------------------------------------------------------
 //Captures key presses
 
-var keyLeft = 65, keyRight = 68, keyPause = 80, keyUp = 87, keyDown = 88, keyShoot = 75;
+var keyLeft = 65, keyRight = 68, keyPause = 80, keyUp = 76, keyDown = 88, keyShoot = 75;
 
 window.onkeydown = function(e) {
 
